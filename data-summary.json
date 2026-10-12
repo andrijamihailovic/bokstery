@@ -1,0 +1,13 @@
+{
+  "start": "2026-10-12",
+  "end": "2027-10-11",
+  "days": 365,
+  "counts": {
+    "history": 186,
+    "borders": 146,
+    "places": 199,
+    "shapes": 160,
+    "labels": 170
+  },
+  "validated": true
+}

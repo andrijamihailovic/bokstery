@@ -1,0 +1,15 @@
+DOMENA: bokstery.si
+GITHUB: andrijamihailovic/bokstery
+
+A      @      185.199.108.153
+A      @      185.199.109.153
+A      @      185.199.110.153
+A      @      185.199.111.153
+CNAME  www    andrijamihailovic.github.io
+
+Če @ ni dovoljen, uporabi bokstery.si. (ime s končno piko).
+Če sistem želi FQDN za cilj CNAME, uporabi andrijamihailovic.github.io.
+Obstoječih zapisov za e-pošto ne briši.
+
+GitHub Pages -> Custom domain: bokstery.si
+Datoteka CNAME: bokstery.si
